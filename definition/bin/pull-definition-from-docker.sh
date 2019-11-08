@@ -13,7 +13,7 @@ case ${ENV} in
   local)
     CLAIM_STORE_URL="http://claim-store-api:4400" # docker-compose service
   ;;
-  saat|sprod|aat|ithc|prod|demo)
+  saat|perftest|sprod|aat|ithc|prod|demo)
     CLAIM_STORE_URL="http://cmc-claim-store-${ENV}.service.core-compute-${ENV}.internal"
   ;;
   *)
