@@ -183,6 +183,8 @@
   {"ID": "Assignee", "ListElementCode": "J7", "ListElement": "Judge Lynda Nightingale"},
   {"ID": "Assignee", "ListElementCode": "J8", "ListElement": "Judge Stuart Hammond"},
   {"ID": "Assignee", "ListElementCode": "J9", "ListElement": "Judge Marshall Phillips"},
+  {"ID": "CourtList", "ListElementCode": "Central London County Court", "ListElement": "Central London County Court"},
+  {"ID": "CourtList", "ListElementCode": "Mayor's and City of London Court", "ListElement": "Mayor's and City of London Court"},
   {"ID": "Assignee", "ListElementCode": "FROM_JUDGE_WITH_DIRECTION", "ListElement": "From Judge with direction"},
   {"ID": "ResponseMethod", "ListElementCode": "DIGITAL", "ListElement": "Online response"},
   {"ID": "ResponseMethod", "ListElementCode": "OFFLINE", "ListElement": "Fully offline response"},
